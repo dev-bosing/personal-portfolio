@@ -1,13 +1,22 @@
-# Game Development Portfolio
+# My Personal Portfolio
 
-Welcome to my game development portfolio! This repository showcases my journey and growth as a game developer, featuring a collection of projects that highlight my passion for creating engaging and interactive experiences. Here, you’ll find my dedication to learning and mastering the craft of game design, programming, game developing, and visual storytelling.
+Welcome to my personal portfolio! This space is dedicated to showcasing my creative and technical journey across game development and software engineering. Here you'll find a curated selection of my work, highlighting both my artistic vision and programming skills.
 
-## School Projects (Software Development)
+## What You'll Find Here
 
-In addition to my game development work, this portfolio includes select software development projects completed during my academic studies. These projects demonstrate my foundation in programming, problem-solving, and software engineering principles:
+- **Game Development:** Explore projects that blend imaginative design with solid technical execution. From indie games with unique mechanics and visuals to collaborative prototypes and technical demos, each piece reflects my passion for interactive experiences and digital art.
+- **Software Projects:** Discover applications and tools I built during my academic studies and personal exploration. These include web and desktop apps, data visualization tools, and practical solutions that demonstrate my ability to solve real-world problems with code.
 
-- **Inventory Management System:** A desktop application designed for tracking and managing inventory in real-time.
-- **Task Organizer:** A web-based tool for efficient task scheduling and progress tracking.
-- **Data Visualization Tools:** Interactive dashboards for analyzing and presenting complex data.
+## About Me
 
-Feel free to explore my projects and see how my skills in both game development and general software engineering have evolved over time!
+I'm driven by curiosity and the desire to create. My work combines artistic creativity with technical proficiency, whether I'm developing engaging games or building useful software. This portfolio is a reflection of my growth, versatility, and commitment to learning in both creative and engineering fields.
+
+## Upcoming & In-Progress Work
+
+This portfolio will continue to grow as I take on new challenges and explore different aspects of technology and art. Upcoming works may include:
+
+- Experimental games exploring new genres and gameplay mechanics
+- Visual art projects, including digital illustrations and concept art
+- Open-source tools and frameworks to support other developers
+
+<!-- Feel free to browse through my projects to see how I merge art and technology in everything I do! -->
